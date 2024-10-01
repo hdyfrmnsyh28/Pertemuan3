@@ -1,2 +1,2 @@
-#Aplikasi Form Hitung
-Belajar membuat form hitung dengna Netbeans
+# Aplikasi Form Hitung
+Belajar membuat form hitung dengan Netbeans
